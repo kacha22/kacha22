@@ -25,9 +25,9 @@ Skills include expertise in AWS Cloud, Azure DevOps, and Google GCP.
 <img src="https://camo.githubusercontent.com/513e03fc97acb466e27d445394532ade8d90363a266a4e8ff9526e2c49db0f67/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f5f436f64652d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465" width="200px">
 <img src="https://camo.githubusercontent.com/c891389a25d8399ac59099761b21a8b84fb064a40b486792b10df9413cf6293b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f2d3543324439312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f266c6f676f436f6c6f723d7768697465" width="162px">
 </p>
-
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kacha22&layout=compact&langs_count=8&theme=dark)](https://github.com/kacha22/github-readme-stats)
-
+<br>
 <h2>Social</h2>
 <a href="yuriribeirosant@gmail.com" height="30">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
